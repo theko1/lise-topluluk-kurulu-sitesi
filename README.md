@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-####Türkiyedeki her liseden arkadaşlarımız okullarında bir araya gelebildikleri bir organizasyon oluşturabilmesi adına bir proje. Projede bir "öğrenci meclisi" websitesi ve bu meclisin yürütülmesi için bir de tüzük örneği bulunmaktadır. 
+####Türkiyedeki her liseden arkadaşlarımız okullarında bir araya gelebildikleri bir organizasyon oluşturabilmeleri adına bir proje. Projede bir "öğrenci meclisi" websitesi ve bu meclisin yürütülmesi için bir de downloads klasöründe tüzük örneği bulunmaktadır. 
 
 Tabii ki de bir meclis kurulması için websitesine ihtiyaç yok ama arşivleme faaliyetleri ve bu meclisin tanıtımı için faydalı olabileceğini düşünüyoruz.
 
@@ -16,6 +15,4 @@ Projenin tasarımı iyileştirilebilir, kod daha kolay düzenlenebilir ve okunab
 Bir projeye nasıl katkı yapabileceğinizi (contribution) bilmiyorsanız şu tutorialı ben açıklayıcı buldum onu inceleyebilirsiniz: 
 - https://github.com/firstcontributions/first-contributions
 - https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.tr.md
-=======
-# lise-topluluk-kurulu-sitesi
->>>>>>> 3603708cbf94fd94647500cbdd389cfe33c98da9
+
